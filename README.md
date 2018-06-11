@@ -7,7 +7,7 @@ You can obtain pre-built versions of PolySlim for MacOS, Linux, and Windows from
 
 ### Windows
 
-Download the latest .zip release and install via User Preferences > Add-ons > Install add-on from file.
+Download the latest .zip release and install via User Preferences > Add-ons > Install add-on from file. The Visual Studio 2017 x64 redistributable will also need to be installed: [Microsoft Visual C++ Redistributable for Visual Studio 2017](https://go.microsoft.com/fwlink/?LinkId=746572).
 
 ### MacOS and Linux
 
